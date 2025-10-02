@@ -22,3 +22,13 @@ It links to focused demo projects and stores documentation deliverables.
 
 ## About
 QA Automation Engineer (SoftUni graduate) actively building portfolio-quality, real-world testing assets.
+## Projects (Details)
+
+- **Project 1 – Manual Testing & Documentation**  
+  See folder: [/manual-testing-demo](./manual-testing-demo)
+
+- **Project 2 – API Testing with Postman**  
+  Repository: *(to be added)*
+
+- **Project 3 – UI Test Automation (Playwright)**  
+  Repository: *(to be added)*
